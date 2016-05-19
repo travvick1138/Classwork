@@ -11,12 +11,12 @@ input_cents = int(input("How many cents do you have? "))
 #transformation
 number_of_quarters = input_cents // Quarters
 number_of_dimes = input_cents % Quarters // Dimes
-number_of_nickels = input_cents % Dimes // Nickels
-number_of_cents = input_cents % Nickels // Cents
+number_of_nickels = input_cents % Quarters // Dimes // Nickels
+number_of_cents = input_cents % Quarters // Dimes // Nickels // Cents
 
 
 #output
-Your_change = '''Quarters = {Quarters}
+Your_change = '''                 Quarters = {Quarters}
                  Dimes    = {Dimes}
                  Nickels  = {Nickels}
                  Cents    = {Cents}''' .format(
