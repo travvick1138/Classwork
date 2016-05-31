@@ -1,4 +1,5 @@
 from random import randint
+"""I like Dice not Dices"""
 
 
 def dice(number_of_dice, number_of_sides):
@@ -9,4 +10,3 @@ dice_number = int(input("How many dice you like to roll?"))
 dice_sides = int(input("How many sides should each die have?"))
 
 dice(dice_number, dice_sides)
-
