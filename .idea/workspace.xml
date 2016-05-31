@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710e9d62-bfbe-4002-91d0-fa03392bf5e6" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dice.py" afterPath="$PROJECT_DIR$/dice.py" />
+>>>>>>> my_new_branch
       <change type="MODIFICATION" beforePath="$USER_HOME$/data-finder/main.py" afterPath="$USER_HOME$/data-finder/main.py" />
     </list>
     <ignored path="Classwork.iws" />
@@ -43,11 +47,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+=======
+      <file leaf-file-name="dice.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> my_new_branch
               <folding />
             </state>
           </provider>
@@ -71,9 +83,12 @@
         <option value="$PROJECT_DIR$/nflteams.py" />
         <option value="$USER_HOME$/data-finder/data.json" />
         <option value="$PROJECT_DIR$/../pdxcodeguild/1. Python/solutions/nfl_teams.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$USER_HOME$/data-finder/main.py" />
         <option value="$PROJECT_DIR$/random_user.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> my_new_branch
         <option value="$PROJECT_DIR$/dice.py" />
       </list>
     </option>
@@ -520,7 +535,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1368" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.105375424" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -530,7 +545,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22904564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35020748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35020748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3966805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -605,7 +620,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="13" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> my_new_branch
         </state>
       </provider>
     </entry>
@@ -613,7 +631,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3388">
           <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> my_new_branch
         </state>
       </provider>
     </entry>
@@ -625,6 +646,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$USER_HOME$/data-finder/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1892">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> my_new_branch
     <entry file="file://$USER_HOME$/Python/Python35-32/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1023">
@@ -641,16 +673,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/data-finder/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1892">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> my_new_branch
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="132">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
@@ -661,6 +701,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+=======
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+>>>>>>> my_new_branch
           <folding />
         </state>
       </provider>
@@ -917,14 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/data-finder/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1892">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Python/Python35-32/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1023">
@@ -941,10 +977,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/dice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+=======
+    <entry file="file://$USER_HOME$/data-finder/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1892">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="31" />
+>>>>>>> my_new_branch
           <folding />
         </state>
       </provider>
@@ -953,6 +996,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
