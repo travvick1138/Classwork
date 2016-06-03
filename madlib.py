@@ -1,3 +1,5 @@
+#my madlib.py
+
 input_one = input('Give me a number')
 
 input_two = input('Give me a pural noun')
@@ -23,7 +25,11 @@ input_eleven = input('Give me an adjective')
 input_twelve = input('Give me an adjective')
 
 
-My_story = '''This workbook is composed of {number_1} worksheets where {Pural_Noun} must insert a certain type of {noun_1} in a short paragraph to create a {adjective_1} story. Each worksheet is on a different topic related to summer. There are {number_2} sheets that require {Pural_Noun} to enter {number_3} {noun_2}, 10 {noun_3} that require students to enter eight words, and 10 {noun_4} that require {Pural_Noun} to enter ten {noun_5}. These are {adjective_2} practice for learning parts of speech and {adjective_3} for all elementary levels.
+My_story = '''This workbook is composed of {number_1} worksheets where {Pural_Noun} must insert a certain type of
+        {noun_1} in a short paragraph to create a {adjective_1} story. Each worksheet is on a different topic related
+         to summer. There are {number_2} sheets that require {Pural_Noun} to enter {number_3} {noun_2}, 10 {noun_3}
+         that require students to enter eight words, and 10 {noun_4} that require {Pural_Noun} to enter ten {noun_5}.
+         These are {adjective_2} practice for learning parts of speech and {adjective_3} for all elementary levels.
 '''
 
 My_transformed_story = My_story.format(
