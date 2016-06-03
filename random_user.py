@@ -1,18 +1,15 @@
 
-
-
-
-
-
-
 #Setup
 
+
 def transform_timestamp_from_data_to_requested_format(timestamp):
+
     from datetime import datetime
 
     dt = datetime.fromtimestamp(timestamp)
     return '{dt.month}/{dt.day}/{dt.year}'.format(dt=dt)
 #input
+
 import urllib.request
 
 handle = urllib.request.urlopen('http://api.randomuser.me/?results=5')
